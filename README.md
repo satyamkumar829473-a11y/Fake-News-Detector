@@ -28,15 +28,16 @@ Fake-News-Detector/
 └── screenshots/
 
 ## ⚙️ Installation 
-1. Clone the repository ```bash git clone https://github.com/your-username/Fake-News-Detector.git 
+1. Clone the repository
+- ```bash git clone https://github.com/your-username/Fake-News-Detector.git 
 2. Move to project directory
-cd Fake-News-Detector 
+- cd Fake-News-Detector 
 3. Install dependencies
-pip install flask pandas 
+- pip install flask pandas 
 4. Run the application
-python app.py 
+- python app.py 
 5. Open browser and visit
-http://127.0.0.1:5000 
+- http://127.0.0.1:5000 
 
 ## 📖 How It Works
 - User enters a news headline.
