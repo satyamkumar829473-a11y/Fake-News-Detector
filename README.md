@@ -28,8 +28,7 @@ Fake-News-Detector/
 └── screenshots/
 
 ## ⚙️ Installation 
-1. Clone the repository
-- ```bash git clone https://github.com/satyamkumar829473-a11y/Fake-News-Detector.git 
+1. Clone the repository```bash git clone https://github.com/satyamkumar829473-a11y/Fake-News-Detector.git 
 2. Move to project directory
 - cd Fake-News-Detector 
 3. Install dependencies
