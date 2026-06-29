@@ -8,6 +8,13 @@ A simple web-based Fake News Detection system built using **Python**, **Flask**,
 - Shows "No News Available" when no match is found
 - Lightweight and easy to run
 
+## Internship Project Details
+
+- **Intern ID:** CITS1377
+- **Name:** Satyam Kumar
+- **Project Name:** Fake News Detector 
+- **Project Duration:** 6 Weeks
+
 ## 🛠️ Technologies Used 
 - Python
 - Flask
